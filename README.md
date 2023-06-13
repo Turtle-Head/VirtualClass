@@ -1,2 +1,2 @@
 # VirtualClass<br>
-Copy of example for reference<br>
+Assignment 6 - Copy Vehicle Polymorphism<br>
